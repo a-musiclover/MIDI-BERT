@@ -113,8 +113,10 @@ MidiBERT/
 ## More
 For more details on 
 * data preparation, please go to `data_creation` and follow Readme
-* MidiBERT pretraining, finetuning, evaluation, please go to `MidiBERT` and follow Readme
-* skyline, please go to `melody_extraction/skyline` and follow Readme
+* MidiBERT pretraining, finetuning, evaluation, please go to `MidiBERT` and follow Readme.
+* skyline, please go to `melody_extraction/skyline` and follow Readme.
+* pianoroll figure generation, please go to `melody_extraction/pianoroll` and follow Readme. We also provide clearer pianoroll pictures of the paper.
+* listening to melody extraction results, please go to `melody_extraction/audio` and read Readme for more details.
 
 Note that Baseline (LSTM) and code in remi versions are removed for cleaness.  But you could find them in `main` branch.
 
